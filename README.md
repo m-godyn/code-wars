@@ -7,6 +7,7 @@ This repository contains solutions for some problems on platform [CodeWars](http
 ### 7 kyu
 
 * [List filtering](https://github.com/m-godyn/code-wars/blob/master/src/main/kyu7/ListFiltering.java)
+* [Square Every Digit](https://github.com/m-godyn/code-wars/blob/master/src/main/kyu7/SquareDigit.java)
 
 ### 8 kyu
 
